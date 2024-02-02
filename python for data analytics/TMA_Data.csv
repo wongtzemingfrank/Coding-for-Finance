@@ -1,0 +1,251 @@
+﻿ID,Staff,BirthYear,Gender,Marital,Citizenship,Minority,JoinDate,LeftDate,Unit,Salary,PerformanceScore,Survey,Satisfaction,Absence
+1,Aairah Hastings,10/7/1986,F,Single,Citizen,Yes,4/2/2012,,Manufacturing,46335,Meet,3.4,5,15
+2,Aaminah Mcmillan,05/25/86,F,Married,Citizen,No,5/12/2014,,Manufacturing,66825,Meet,4.6,3,20
+3,Aamna Howell,04/20/85,F,Single,Citizen,No,9/29/2014,,Manufacturing,60446,Meet,3.4,4,14
+4,Aayan Ferrell,6/10/1984,M ,Married,Citizen,No,1/5/2016,,Admin ,93046,Meet,4.1,4,20
+5,Ace Potter,9/8/1989,F,Divorced,Citizen,No,7/11/2011,9/6/2020,Manufacturing,50825,Meet,5,4,2
+6,Adaline Deacon,07/30/83,F,Divorced,Citizen,No,1/10/2011,5/14/2012,Manufacturing,58062,Meet,3.6,5,9
+7,Addie Terrell,5/9/1965,F,Single,Citizen,No,7/5/2011,9/5/2016,Manufacturing,48413,Meet,3.98,4,1
+8,Adeeb Rice,6/11/1970,M ,Single,PR,No,5/14/2012,,Sales,66808,Meet,3,5,17
+9,Aleena Sierra,3/12/1973,F,Married,Citizen,No,6/10/2011,,IT,66593,Meet,4.3,3,19
+10,Alena Galvan,11/23/85,F,Single,Citizen,No,11/10/2014,,Manufacturing,66738,Meet,4.53,5,5
+11,Alfie Hibbert,1/4/1984,M ,Single,Citizen,No,8/13/2012,,Manufacturing,46998,Meet,4.17,4,1
+12,Allison Byers,10/15/84,F,Divorced,PR,No,5/16/2011,6/4/2018,Manufacturing,46799,Meet,3.17,4,14
+13,Amarah Morris,4/4/1987,F,Married,Citizen,No,2/16/2015,,Admin ,106367,Meet,5,4,4
+14,Amy Jennings,2/11/1970,F,Single,Citizen,No,7/6/2009,,Manufacturing,47837,Meet,4.46,3,4
+15,Anabel Stevens,6/3/1967,F,Others,Citizen,No,4/1/2013,,Manufacturing,52984,Exceed,4,3,12
+16,Anaya Fischer,10/27/70,F,Single,PR,No,4/4/2011,,Manufacturing,59026,Meet,5,5,12
+17,Anees Wallis,3/10/1970,M ,Single,Citizen,No,9/30/2013,8/7/2021,Manufacturing,74312,Meet,3.39,3,14
+18,Anish Hoover,1/7/1988,M ,Divorced,Citizen,No,1/5/2015,,IT,50178,Meet,5,5,16
+19,Anish Patton,12/11/1976,M ,Married,Citizen,No,9/30/2013,,Manufacturing,47414,Exceed,5,3,13
+20,Annabell Rivers,08/27/72,F,Single,Citizen,No,1/10/2011,6/18/2013,Manufacturing,68099,Meet,5,3,15
+21,Antonina Needham,09/22/89,F,Single,Citizen,No,2/16/2015,,Sales,61555,Meet,4.5,5,20
+22,Aroush Fernandez,08/25/82,F,Divorced,Citizen,No,1/10/2011,,Manufacturing,47961,Meet,4.1,4,9
+23,Ashleigh Mccabe,1/12/1974,F,Married,Citizen,Yes,1/10/2011,1/12/2017,Manufacturing,54670,Meet,4.2,4,12
+24,Ashleigh Wilder,10/12/1954,M ,Married,Citizen,No,5/12/2014,,Sales,61809,Meet,3.98,3,4
+25,Ayat Stokes,12/22/70,M ,Single,Citizen,Yes,4/2/2012,,Manufacturing,51044,Meet,5,3,13
+26,Ayda Ramos,7/7/1984,F,Single,Citizen,No,7/8/2013,,Manufacturing,62061,Meet,3.6,5,4
+27,Ayisha York,04/17/66,F,Married,Citizen,No,7/21/2016,,Manufacturing,70131,Exceed,4.4,3,16
+28,Ayomide Beasley,08/16/84,M ,Divorced,Citizen,No,5/18/2014,,Sales,72992,To Improve,2.4,4,16
+29,Ayush Kouma,11/24/79,M ,Single,Citizen,No,2/17/2014,,Manufacturing,53060,To Improve,4.25,3,6
+30,Bea Andrews,11/8/1988,F,Single,Citizen,No,1/10/2011,,Sales,74241,Exceed,4.77,5,14
+31,Becky Kent,5/7/1992,F,Others,Citizen,No,6/5/2015,,Manufacturing,64995,Meet,4.5,3,6
+32,Benn Bouvet,9/1/1986,M ,Single,Citizen,No,9/29/2014,,Admin ,63003,Meet,3.9,5,9
+33,Blake Irvine,08/24/83,M ,Single,Citizen,No,7/8/2013,,Manufacturing,60380,Meet,3.8,5,4
+34,Blossom Oakley,02/25/51,F,Others,Citizen,No,4/4/2011,11/4/2015,Manufacturing,58275,Meet,4.62,5,1
+35,Bobbi Hart,08/29/88,F,Married,Citizen,No,1/9/2012,,Sales,61844,Meet,4.2,5,9
+36,Brendon Blaese,2/9/1969,M ,Single,PR,No,3/7/2012,10/31/2014,Sales,71707,Meet,4.5,5,20
+37,Bushra Ware,04/19/90,F,Single,Citizen,No,5/5/2014,,Sales,65729,Meet,4.62,4,8
+38,Cai Barrow,04/18/80,M ,Single,Citizen,No,7/8/2013,,Manufacturing,57575,Meet,4.1,4,13
+39,Cally Branch,5/5/1988,M ,Married,Citizen,No,1/5/2015,2/12/2016,IT,75281,Meet,5,3,11
+40,Carole Wilks,09/23/73,F,Married,Citizen,No,4/26/2010,,Manufacturing,62514,Meet,2.9,3,6
+41,Charlize Noble,02/24/79,F,Single,Citizen,No,3/30/2015,,IT,89292,Meet,5,3,11
+42,Chaya Page,5/7/1965,F,Single,Citizen,No,9/29/2014,,Sales,58370,Meet,3.69,3,18
+43,Chelsey Watson,5/12/1980,F,Married,Citizen,No,10/2/2016,,IT,95920,Meet,4.4,4,10
+44,Chelsy Melton,9/5/1981,F,Divorced,PR,No,9/26/2011,10/22/2011,Manufacturing,64971,Meet,4.5,4,10
+45,Chloe Coleman,06/18/92,F,Single,Citizen,Yes,11/11/2013,,Manufacturing,53018,Meet,4.3,5,7
+46,Cian Butt,08/15/68,F,Single,PR,No,5/14/2012,,Manufacturing,59238,Meet,3.4,5,13
+47,Claude Alcock,03/28/83,M ,Married,Citizen,No,4/1/2013,5/25/2016,Manufacturing,46664,Meet,3.18,3,10
+48,Conan Russell,05/21/79,M ,Married,Citizen,No,7/2/2012,,Manufacturing,48285,Meet,5,3,2
+49,Cristian Dixon,9/5/1984,M ,Married,Citizen,No,12/1/2014,5/1/2016,IT,93093,Meet,4.7,4,19
+50,Daanish Payne,02/24/69,M ,Single,Citizen,Yes,3/7/2011,,Sales,71339,Meet,3.65,5,20
+51,Damien Garcia,10/7/1982,M ,Married,Citizen,Yes,1/5/2015,,Manufacturing,63025,Meet,4.36,5,10
+52,Dania Ford,3/10/1979,F,Married,PR,No,4/2/2019,,Manufacturing,74226,Meet,4.3,3,14
+53,Daryl Jennings,08/19/59,M ,Married,Citizen,No,11/7/2011,4/29/2018,Manufacturing,46837,Exceed,4.7,4,9
+54,Debra Bond,11/11/1989,F,Single,Citizen,No,11/7/2011,4/24/2014,Sales,68999,Meet,4.5,5,2
+55,Declan Delgado,12/17/75,M ,Divorced,Citizen,No,7/20/2010,,Manufacturing,68051,To Improve,4.13,2,3
+56,Deen Kerr,7/11/1981,M ,Divorced,Citizen,No,6/2/2015,,Manufacturing,62957,Meet,4.63,3,2
+57,Denise Philip,05/31/88,F,Single,Non-Resident,No,10/3/2011,,Manufacturing,64816,Meet,3.58,5,3
+58,Devin Sloan,10/23/71,F,Single,Citizen,No,2/16/2015,3/15/2015,IT,114800,Meet,4.6,4,10
+59,Diesel Rahman,11/22/66,M ,Single,Citizen,No,8/15/2011,,Engineering,77692,Meet,3.84,3,4
+60,Dominic Holden,09/29/69,M ,Divorced,PR,No,7/11/2011,,Manufacturing,59892,Exceed,4.5,4,1
+61,Dua Santana,6/10/1986,F,Single,Citizen,No,2/20/2012,,Manufacturing,55425,Meet,4.8,4,4
+62,Dylan Benton,02/20/79,M ,Single,Citizen,No,11/7/2011,9/7/2015,Engineering,108987,Exceed,5,5,13
+63,Ed Flower,09/14/88,M ,Married,Citizen,No,8/18/2014,,Sales,70545,Meet,3.6,5,9
+64,Elena Weber,10/5/1988,F,Single,Citizen,Yes,1/21/2020,,IT,51777,Exceed,4.64,4,14
+65,Eliot Weaver,9/11/1972,F,Single,Citizen,No,11/5/2012,,Manufacturing,61242,Meet,4.1,3,7
+66,Ellen Whitney,07/18/89,F,Married,Citizen,No,7/5/2011,9/15/2021,Manufacturing,60270,To Improve,2.4,5,2
+67,Ellie Chamberlain,04/16/79,F,Married,Citizen,no,1/5/2019,,Admin ,99351,Meet,5,3,3
+68,Elliott Whittaker,05/31/74,M ,Single,PR,No,11/10/2014,,Manufacturing,48888,Meet,4.7,5,8
+69,Elyas Huynh,09/15/85,M ,Single,Citizen,Yes,3/30/2015,,Manufacturing,52249,Meet,4.5,3,5
+70,Emmeline Hobbs,10/22/75,F,Married,Citizen,No,2/16/2015,,Manufacturing,52057,Meet,5,3,6
+71,Ethel Leon,09/30/75,F,Married,Citizen,No,10/2/2012,,Manufacturing,65714,Meet,4.83,5,15
+72,Evan Drew,11/7/1987,F,Single,Citizen,No,11/11/2013,,Engineering,105688,Meet,4.5,5,14
+73,Evie Kirkpatrick,05/23/91,F,Married,Citizen,No,7/5/2017,,Sales,57859,Meet,2.81,3,16
+74,Evie-May Mcneill,10/9/1974,F,Married,Citizen,No,8/19/2013,,Manufacturing,49256,Meet,4.1,5,3
+75,Faiz Molloy,5/9/1984,M ,Married,Citizen,No,4/2/2012,4/15/2013,Manufacturing,61962,Meet,4.9,3,20
+76,Fearne Flynn,07/18/88,F,Married,Citizen,No,1/5/2015,,IT,70621,Meet,4.11,4,16
+77,Finlay Petty,03/22/66,F,Divorced,PR,No,9/30/2013,,Manufacturing,45069,Meet,4.3,5,7
+78,Flora Patterson,08/31/81,F,Married,Citizen,No,5/16/2011,1/7/2013,Manufacturing,64066,Meet,4.2,5,9
+79,Gabriela Lynch,09/19/88,F,Married,Citizen,No,7/5/2011,9/24/2012,Manufacturing,64955,Meet,3.02,3,3
+80,Gloria Mahoney,05/16/83,F,Single,Citizen,No,2/17/2014,,Manufacturing,63025,To Improve,2.44,5,18
+81,Gurpreet Bateman,11/6/1986,F,Divorced,Citizen,No,7/5/2020,,Manufacturing,60724,Exceed,4.6,4,11
+82,Hamza Langley,1/4/1964,M ,Divorced,Citizen,No,1/9/2012,11/4/2015,IT,148999,Meet,4.3,4,8
+83,Hanna Edmonds,5/8/1980,F,Single,Citizen,Yes,9/29/2014,,Manufacturing,57815,Exceed,3.9,4,3
+84,Harleigh Thomas,8/7/1986,M ,Married,PR,No,2/16/2015,2/22/2017,IT,113999,Meet,4.33,3,9
+85,Harper Mcleod,5/6/1989,F,Single,Citizen,No,2/17/2014,2/25/2018,Manufacturing,59124,To Improve,2.3,3,19
+86,Hayley Chandler,08/27/83,F,Single,Citizen,No,6/27/2011,11/15/2015,Manufacturing,64786,Meet,4.3,4,3
+87,Hebe Colley,09/16/84,F,Married,Citizen,No,11/10/2021,,IT,93554,Exceed,4.6,5,16
+88,Hiba Reyes,11/5/1978,F,Married,Citizen,No,7/2/2012,,Manufacturing,57583,Meet,5,3,1
+89,Honey Warren,7/7/1984,F,Divorced,Citizen,No,4/1/2013,,Manufacturing,63430,Meet,4.4,4,18
+90,Howard Cain,10/5/1986,M ,Married,PR,Yes,2/15/2012,,IT,157000,To Improve,2.39,3,13
+91,Imran Bird,08/28/63,M ,Single,Citizen,No,9/6/2011,,Sales,67251,Meet,4.3,3,7
+92,Iosif Perkins,2/8/1970,M ,Married,PR,Yes,1/5/2015,,IT,87826,Meet,3.32,3,16
+93,Isaak Moses,11/25/78,M ,Married,Citizen,No,8/30/2010,9/26/2011,Manufacturing,59369,Meet,4.2,4,6
+94,Isabella-Rose Laing,08/25/76,F,Married,Citizen,No,5/11/2016,,Manufacturing,62385,Meet,5,3,4
+95,Isha Houghton,05/15/70,F,Divorced,Citizen,No,11/7/2011,11/15/2016,Manufacturing,51505,Meet,4.24,4,2
+96,Ishika Haigh,9/1/1989,F,Married,Citizen,No,7/7/2014,,Manufacturing,62910,Exceed,5,3,19
+97,Izabel Hartley,12/8/1973,F,Married,Citizen,No,9/26/2011,6/4/2015,Manufacturing,54005,Meet,3.6,5,16
+98,Izabella Maddox,04/14/55,F,Married,Citizen,No,11/7/2011,5/17/2016,Manufacturing,57748,Meet,3.13,3,16
+99,Jace Crouch,3/2/1980,F,Single,PR,No,3/5/2012,,Manufacturing,63763,Meet,4.51,4,3
+100,Jagoda Randolph,9/8/1969,F,Single,Citizen,No,7/7/2014,,Manufacturing,63322,Exceed,4.3,3,1
+101,Jamelia Chase,05/24/79,F,Single,PR,No,11/10/2014,,Engineering,95660,Meet,3.04,3,19
+102,Jamie Fritz,2/10/1976,M ,Single,Citizen,No,8/18/2014,,Manufacturing,66541,Meet,3.11,5,4
+103,Jardel Nielsen,7/4/1988,M ,Divorced,PR,No,11/10/2014,,IT,92328,Exceed,4.28,4,9
+104,Jay Bauer,4/5/1973,M ,Single,Citizen,No,1/20/2013,,IT,140920,Meet,3.6,5,13
+105,Jenna Carty,05/21/83,F,Divorced,Citizen,No,2/21/2011,1/11/2014,Manufacturing,63813,Meet,5,5,17
+106,Jensen Hartman,12/27/88,M ,Others,Citizen,No,4/30/2012,,Sales,70468,Meet,4.53,3,16
+107,Jeremiah Britt,5/2/1989,M ,Single,Citizen,No,9/26/2011,4/4/2014,Manufacturing,50470,Meet,4.3,3,19
+108,Jia Chadwick,11/21/72,F,Single,Citizen,No,1/7/2017,,IT,150290,Meet,4.94,3,17
+109,Jillian Mcclure,12/5/1974,F,Others,Citizen,No,1/6/2014,,Manufacturing,60627,Meet,5,4,8
+110,Jo Valdez,04/16/81,F,Others,Citizen,Yes,1/5/2015,,IT,61242,Meet,4.61,4,11
+111,Jobe Doyle,4/6/1979,M ,Single,PR,No,7/8/2013,,Manufacturing,53250,Meet,4.2,4,13
+112,Joel Mcfarland,09/27/87,F,Single,Citizen,No,2/17/2014,,Manufacturing,65902,Meet,4,4,7
+113,Jonathon Rosa,7/5/1980,M ,Single,Citizen,No,4/15/2011,,IT,178000,Exceed,5,5,15
+114,Jordana Cochran,06/14/87,F,Single,Citizen,No,10/2/2016,,IT,81584,Meet,4.1,5,2
+115,Jordanne Cote,09/21/54,F,Married,Citizen,Yes,7/2/2012,,C-Level,250000,Meet,4.83,3,10
+116,Josephine Bowman,09/27/88,F,Married,Citizen,No,1/7/2008,,Manufacturing,64991,Meet,4.84,5,15
+117,Julien Clegg,02/18/83,M ,Others,Citizen,No,9/30/2013,,Manufacturing,59365,Meet,5,4,19
+118,Kade Coles,11/15/82,M ,Single,Citizen,No,5/12/2014,,Manufacturing,51259,Meet,4.3,4,1
+119,Kanye Haynes,12/3/1976,M ,Single,Citizen,No,1/9/2012,,Manufacturing,72106,Meet,4.1,4,12
+120,Kanye Walton,08/25/78,M ,Married,PR,No,3/31/2014,,Manufacturing,54285,Meet,4.2,3,3
+121,Katerina Cox,4/4/1986,F,Single,Citizen,Yes,7/7/2014,9/12/2015,IT,110000,Meet,4.5,4,8
+122,Katey Huynh,12/8/1983,F,Others,Citizen,No,9/30/2013,,Manufacturing,66149,Meet,4.4,5,1
+123,Katy Mclean,05/22/77,F,Single,PR,No,1/9/2012,,Manufacturing,57568,Exceed,5,5,15
+124,Kayden Whittaker,07/28/83,M ,Single,Citizen,No,9/29/2014,,Manufacturing,65288,Meet,3.19,3,9
+125,Keeva Newton,5/2/1978,F,Others,Citizen,No,3/30/2015,,IT,107226,Meet,4.2,4,7
+126,Kelsea Beasley,03/17/66,F,Married,Citizen,No,5/5/2014,,Sales,180000,Meet,4.5,4,19
+127,Khadijah Henderson,02/14/73,F,Single,Citizen,Yes,11/7/2011,11/14/2015,Manufacturing,47434,Exceed,5,4,17
+128,Khalil Black,08/26/86,M ,Married,Citizen,No,3/30/2015,,IT,83552,Meet,3.04,3,2
+129,Kie Bain,7/11/1989,M ,Single,Citizen,No,3/5/2012,,Sales,55875,Meet,4.5,4,11
+130,Kie Osborne,11/24/89,M ,Married,Citizen,Yes,3/30/2015,,IT,74679,Meet,4.3,5,20
+131,Killian Houston,01/19/76,M ,Single,Citizen,No,9/30/2013,,Manufacturing,50482,Meet,3.07,4,10
+132,Kingston Kirkpatrick,01/28/85,M ,Others,Citizen,No,7/8/2013,,Manufacturing,63353,Exceed,3.6,5,4
+133,Kobie Clifford,10/26/81,F,Married,Citizen,No,9/30/2013,,Manufacturing,77915,Exceed,4.1,3,11
+134,Kole Guzman,12/1/1974,M ,Others,Citizen,No,5/13/2013,,Manufacturing,74417,Meet,4.29,5,11
+135,Kory Walters,9/4/1983,M ,Single,Citizen,No,2/15/2017,,IT,96820,Meet,3.01,5,15
+136,Kristopher Thornton,8/9/1974,M ,Married,PR,No,4/2/2012,6/25/2015,Manufacturing,54933,To Improve,3.97,4,15
+137,Lea Tillman,05/15/63,F,Single,Citizen,No,8/18/2014,,Sales,71860,Meet,5,5,7
+138,Lee Sullivan,8/10/1981,M ,Single,Citizen,yes,8/16/2012,,Manufacturing,83667,Meet,4.37,3,2
+139,Leonardo Valdez,5/11/1985,M ,Single,Citizen,No,7/7/2014,,Manufacturing,65893,Meet,4.07,4,13
+140,Leonidas Austin,07/22/82,M ,Divorced,Citizen,Yes,5/16/2011,1/15/2016,Manufacturing,45115,Meet,5,4,11
+141,Lexie Conway,05/19/88,F,Single,Citizen,No,5/1/2015,,Admin ,51920,Meet,5,3,2
+142,Libby Greaves,01/18/52,F,Married,Citizen,No,11/10/2014,,IT,85028,Meet,3.1,5,19
+143,Lilliana Black,09/22/70,F,Divorced,PR,No,9/24/2012,6/18/2013,Manufacturing,46430,Meet,4.5,5,16
+144,Lillie Davila,1/7/1985,F,Married,Citizen,No,1/10/2011,5/17/2016,Manufacturing,61422,To Improve,3.6,3,16
+145,Lindsey Gill,7/3/1972,M ,Married,Citizen,No,7/5/2011,2/8/2012,Manufacturing,55578,Meet,4.2,5,13
+146,Loren Wilkins,12/2/1983,F,Single,Citizen,Yes,5/16/2011,,Manufacturing,53171,Meet,4.2,4,12
+147,Louise Arnold,3/10/1975,F,Single,Citizen,No,9/30/2013,,Manufacturing,50923,Meet,5,5,14
+148,Luc Farmer,03/18/87,M ,Single,Citizen,No,4/4/2011,8/13/2018,Manufacturing,53180,Meet,5,5,4
+149,Lyndon Prince,5/6/1983,M ,Single,Citizen,No,7/7/2014,,Engineering,92989,Exceed,4.5,5,1
+150,Macauly Levy,10/1/1981,M ,Single,Citizen,Yes,5/16/2011,6/24/2013,Manufacturing,72609,Meet,4.76,5,20
+151,Macey Edmonds,03/31/69,M ,Married,PR,No,3/30/2015,,IT,76029,Meet,5,4,8
+152,Macy Velazquez,06/29/85,M ,Single,Citizen,No,8/15/2011,9/4/2014,Manufacturing,55800,PIP,3,2,6
+153,Mairead Oakley,7/10/1988,F,Married,Citizen,No,9/29/2014,,Manufacturing,56147,Meet,3.51,3,2
+154,Makayla Eastwood,11/14/55,F,Married,Citizen,No,9/26/2011,1/2/2012,Manufacturing,80512,Meet,4.5,3,5
+155,Makenzie Wiggins,11/7/1958,M ,Single,Citizen,No,1/7/2013,2/21/2016,Manufacturing,70507,Exceed,5,3,7
+156,Marcos Saunders,10/18/81,M ,Single,PR,No,2/21/2011,8/4/2017,Manufacturing,57834,Meet,5,4,20
+157,Marlie Lott,06/19/61,M ,Single,Citizen,No,1/6/2014,,Manufacturing,59472,Meet,4.8,3,14
+158,Martin Aguirre,7/1/1972,M ,Married,Citizen,No,1/10/2011,12/12/2015,Manufacturing,82758,Meet,4.78,4,9
+159,Matei Marquez,7/10/1983,M ,Single,Citizen,No,7/5/2011,,Manufacturing,62506,Exceed,4.6,5,1
+160,Matt Neville,02/21/74,M ,Married,Citizen,Yes,4/2/2012,9/19/2016,Manufacturing,47211,Meet,4.2,3,15
+161,Max Smyth,3/6/1988,M ,Married,Citizen,No,7/5/2011,11/30/2012,Manufacturing,64724,Meet,5,3,13
+162,Mckenzie Puckett,7/1/1984,M ,Married,Citizen,No,7/6/2016,,Sales,63291,Meet,3.4,4,7
+163,Meera Woodward,10/2/1969,F,Single,PR,Yes,1/9/2012,6/27/2015,Manufacturing,59728,Meet,4.3,4,16
+164,Meg Gough,1/12/1973,F,Married,Citizen,No,11/28/2011,,Manufacturing,46738,Exceed,4.36,5,16
+165,Michele Lucas,08/24/90,F,Married,Citizen,No,4/2/2012,6/15/2013,Manufacturing,53492,Meet,3.35,4,6
+166,Molly Conley,11/7/1974,F,Married,Citizen,No,11/11/2013,,Manufacturing,61349,Meet,4.1,3,11
+167,Monet Ahmed,6/1/1964,F,Married,PR,No,8/15/2011,8/2/2014,Sales,74326,Meet,3.14,5,19
+168,Muhammed Greene,2/9/1972,M ,Married,Citizen,No,9/6/2016,,IT,110929,Meet,4.5,5,8
+169,Nadir Redmond,9/2/1983,M ,Single,Citizen,No,4/2/2012,9/27/2018,Manufacturing,60340,To Improve,5,4,16
+170,Natalia Ortiz,01/16/67,F,Single,Citizen,No,1/10/2011,4/4/2014,Manufacturing,57815,Meet,4.8,5,5
+171,Natalie Kennedy,6/5/1967,F,Divorced,Citizen,No,2/18/2013,,Manufacturing,56339,Meet,4.21,5,4
+172,Natasha Cortez,10/8/1970,F,Married,Citizen,No,9/26/2011,1/9/2014,Manufacturing,45433,Meet,3.49,4,6
+173,Nazifa Everett,01/17/79,F,Single,Citizen,No,9/26/2011,8/19/2018,Manufacturing,63676,Meet,4.88,3,17
+174,Neelam Clarkson,03/16/81,F,Married,PR,No,1/9/2012,,Manufacturing,58530,Meet,5,5,19
+175,Neriah Alcock,12/27/58,F,Divorced,Citizen,No,8/19/2013,,Manufacturing,64919,Meet,4.2,3,2
+176,Nichole Hewitt,5/12/1989,F,Married,Citizen,No,9/27/2010,,Sales,60120,Meet,4.1,4,18
+177,Ollie Holloway,2/11/1952,F,Married,Citizen,No,5/14/2012,8/19/2013,Manufacturing,71966,Meet,5,3,17
+178,Omar Macleod,12/21/74,M ,Single,PR,No,1/5/2009,7/30/2018,Manufacturing,46428,Meet,4.6,5,7
+179,Osama Byers,8/10/1988,M ,Single,Citizen,Yes,11/11/2013,,Manufacturing,64246,Meet,5,3,20
+180,Owain Oakley,08/19/77,M ,Married,Citizen,No,4/4/2011,,Manufacturing,62162,Meet,3.25,5,15
+181,Ozan Buckley,8/12/1979,M ,Single,Citizen,No,7/11/2011,9/23/2016,Manufacturing,59144,To Improve,2,3,16
+182,Paris Joseph,09/22/76,F,Divorced,Citizen,No,2/21/2011,4/1/2013,Manufacturing,68182,Meet,3.72,3,18
+183,Paul Hart,12/31/84,M ,Divorced,Citizen,No,9/26/2011,4/7/2018,Manufacturing,61729,Meet,3.8,5,19
+184,Pawel Garrison,11/9/1972,M ,Others,PR,No,9/24/2012,9/26/2017,Manufacturing,52788,Meet,3.08,4,18
+185,Phoebe Murillo,7/7/1986,F,Single,Citizen,No,1/6/2014,,Manufacturing,45395,Meet,4.6,4,14
+186,Piotr Watson,06/30/89,M ,Married,PR,No,4/20/2017,,IT,99020,Meet,4.2,5,8
+187,Pollyanna Robin,11/24/87,F,Married,PR,No,10/27/2008,,Admin ,63000,Meet,4.5,2,14
+188,Rae Partridge,07/25/79,F,Divorced,Citizen,No,1/7/2013,3/31/2014,Manufacturing,66074,Meet,4.52,3,20
+189,Rares Galindo,9/9/1965,M ,Single,Citizen,No,11/10/2014,,IT,92329,Meet,5,3,5
+190,Raul Allison,11/23/81,M ,Single,Citizen,No,11/5/2007,,Manufacturing,47001,Meet,3.66,3,15
+191,Rayan Estes,4/5/1987,F,Single,Citizen,No,11/11/2013,,Engineering,93396,Meet,4.96,4,3
+192,Rayyan Ballard,11/25/87,F,Single,PR,No,10/26/2009,4/8/2015,Manufacturing,63878,Meet,4.68,4,20
+193,Reilly Guy,12/10/1986,F,Married,Citizen,No,7/5/2011,8/19/2012,Manufacturing,68407,Meet,5,4,16
+194,Reyansh Charlton,2/2/1983,M ,Single,Citizen,No,3/31/2014,,Manufacturing,52846,Meet,4.43,3,14
+195,Rianne Corrigan,08/17/86,F,Married,Citizen,No,5/16/2011,2/4/2013,Manufacturing,57954,Exceed,4.2,5,12
+196,Riaz Callahan,03/17/88,M ,Single,Citizen,No,1/10/2011,12/28/2017,Manufacturing,53564,To Improve,3.54,5,15
+197,Robin Parkinson,04/17/86,F,Married,Citizen,No,1/10/2011,4/1/2016,Manufacturing,61154,Meet,4,4,4
+198,Rohit Ellwood,11/6/1984,M ,Married,PR,No,2/21/2011,8/15/2015,Engineering,83363,Meet,4.15,4,4
+199,Roma Bailey,11/8/1983,F,Married,PR,No,4/4/2011,1/9/2013,Manufacturing,55965,Meet,3.66,3,6
+200,Roman Anthony,04/26/86,M ,Married,PR,No,8/30/2010,,Manufacturing,57975,Meet,4.1,3,13
+201,Rosemarie Jensen,9/5/1991,F,Married,Citizen,No,4/4/2011,6/6/2017,Manufacturing,60070,Meet,5,3,7
+202,Ruby Stephens,11/28/73,F,Single,Citizen,No,9/18/2014,,Manufacturing,75188,Meet,4.52,4,4
+203,Rudra Ross,03/31/77,F,Married,Citizen,Yes,1/5/2015,,Manufacturing,63381,Meet,4.73,5,6
+204,Rui Stephenson,05/15/87,F,Married,Citizen,No,5/2/2011,6/5/2013,Engineering,99280,To Improve,2.1,5,19
+205,Ruth Guy,08/25/89,F,Others,Citizen,No,7/7/2014,,Manufacturing,56847,PIP,3,1,5
+206,Safwan Herrera,05/24/87,M ,Single,PR,Yes,1/10/2011,5/15/2014,Manufacturing,58371,Meet,5,5,11
+207,Salma Choi,1/2/1951,F,Single,Citizen,No,9/29/2014,,Manufacturing,61656,Meet,5,4,11
+208,Sanaya Browne,03/28/82,F,Single,PR,No,8/19/2013,,Manufacturing,73330,Exceed,4.2,4,19
+209,Sannah Frederick,3/11/1984,F,Single,Citizen,No,6/6/2016,,Manufacturing,69340,Meet,3,5,4
+210,Sasha Foley,09/22/76,F,Single,Citizen,No,3/30/2015,,Manufacturing,55688,Meet,5,4,10
+211,Savanna Krause,4/6/1985,F,Single,Citizen,No,7/5/2015,,Manufacturing,62068,Meet,3.21,3,7
+212,Selin Reeve,5/9/1977,F,Married,Citizen,No,10/25/2010,5/18/2016,Manufacturing,74669,Meet,4.16,5,6
+213,Sharon Chen,04/14/81,F,Married,Citizen,No,9/30/2014,,IT,50750,Meet,3.31,3,7
+214,Shea Stewart,7/6/1968,F,Single,Citizen,No,5/1/2010,,IT,65707,Meet,4.7,4,1
+215,Shuaib Crawford,06/14/83,M ,Single,Non-Resident,No,2/18/2013,4/15/2018,Engineering,100416,Meet,4.6,3,9
+216,Shyam Baker,8/9/1983,M ,Single,Citizen,No,1/28/2016,,Manufacturing,72640,Exceed,5,3,14
+217,Sid Ali,04/26/84,M ,Divorced,Citizen,No,1/6/2014,,Admin ,64520,Meet,5,4,3
+218,Sienna Bender,12/2/1978,F,Married,Citizen,No,1/7/2013,,Manufacturing,61584,To Improve,3.88,4,6
+219,Simeon Gentry,10/31/77,M ,Married,Citizen,No,5/16/2011,6/8/2016,Manufacturing,55722,Meet,5,4,14
+220,Sion Redfern,9/8/1977,M ,Single,Citizen,No,7/8/2013,,Manufacturing,63108,Meet,4.4,5,3
+221,Sonia Mora,02/16/84,F,Married,Non-Resident,No,8/15/2011,4/7/2012,Manufacturing,63478,Meet,3.03,5,16
+222,Stacey Felix,7/5/1979,F,Single,Citizen,No,1/9/2012,,Engineering,101199,Meet,3.79,5,8
+223,Stefanie John,03/15/85,F,Single,Non-Resident,No,1/10/2011,7/2/2014,Manufacturing,74813,Meet,4.4,3,5
+224,Stuart Daniels,09/16/75,M ,Others,Non-Resident,No,6/25/2007,8/30/2010,Manufacturing,67176,Meet,4.1,4,15
+225,Sultan Watts,7/8/1981,M ,Single,Non-Resident,No,2/15/2017,,IT,84903,Meet,3.42,4,17
+226,Summer-Rose Holloway,01/28/91,F,Single,Non-Resident,No,8/19/2013,,Manufacturing,51908,Meet,3.99,3,14
+227,Susannah Sumner,1/7/1987,F,Married,Non-Resident,No,1/7/2013,,Manufacturing,62810,Meet,3.93,3,20
+228,Tahmina Webb,07/20/86,F,Single,Non-Resident,No,5/16/2011,10/25/2015,Manufacturing,45998,Meet,3.45,4,5
+229,Taio Barrera,9/5/1985,M ,Single,Non-Resident,No,9/5/2012,,IT,68678,Meet,4.7,3,2
+230,Tammy Russo,05/30/68,F,Single,Citizen,No,4/2/2012,11/11/2016,Manufacturing,62659,Meet,4.18,4,17
+231,Tasnia Denton,6/6/1986,F,Single,Citizen,No,6/30/2016,,IT,100031,Meet,5,5,7
+232,Tegan Ritter,1/7/1974,M ,Married,Citizen,No,1/10/2011,1/26/2016,Manufacturing,50428,Meet,5,3,11
+233,Tierney Currie,05/24/53,F,Married,Citizen,No,5/16/2011,7/8/2017,Manufacturing,72202,Meet,3.93,3,3
+234,Tina Power,6/6/1968,F,Single,Citizen,No,7/4/2016,,Manufacturing,47750,To Improve,2.6,4,4
+235,Toni Mcfarland,02/21/84,F,Single,Citizen,No,3/30/2015,,IT,97999,Meet,4.48,5,4
+236,Torin Reese,03/23/77,F,Married,Citizen,No,11/28/2011,,Manufacturing,54828,Meet,4.2,4,13
+237,Tre Kelly,04/23/86,M ,Married,Citizen,No,11/10/2014,,IT,93206,Meet,4.46,5,7
+238,Troy Vaughan,03/28/78,F,Married,Citizen,No,1/8/2009,,Manufacturing,63682,Meet,3.73,4,12
+239,Ty Mccormick,01/15/68,M ,Others,Citizen,No,1/9/2006,,Sales,64397,Exceed,4.1,3,6
+240,Tyreece Wormald,11/15/76,M ,Married,Citizen,No,2/21/2011,9/24/2012,Manufacturing,83082,To Improve,2.34,2,4
+241,Vickie Mullins,6/3/1986,F,Married,Citizen,No,9/26/2011,2/8/2016,Manufacturing,49773,Exceed,4.3,5,18
+242,Warwick Byrne,12/17/87,M ,Divorced,Citizen,No,1/5/2015,10/31/2015,IT,88527,Meet,4.2,3,2
+243,Whitney Vinson,09/14/79,M ,Single,PR,No,11/7/2011,,Manufacturing,56294,Meet,3.96,4,6
+244,Wren Duke,08/17/78,F,Others,Citizen,No,9/29/2014,,Manufacturing,45046,Meet,4.5,5,2
+245,Yousaf Wagner,08/26/80,M ,Married,Non-Resident,No,7/6/2016,,Manufacturing,50373,Exceed,4.1,4,5
+246,Zaina Parrish,10/11/1981,F,Married,Non-Resident,No,2/16/2015,,IT,89883,Meet,3.69,5,15
+247,Zane Downes,10/24/87,M ,Married,Non-Resident,No,4/20/2017,,IT,90100,Meet,3.4,3,14
+248,Zayd Farley,7/9/1970,M ,Single,Non-Resident,No,1/5/2014,,IT,138888,Exceed,4.3,5,4
+249,Zoya Easton,8/2/1980,F,Single,Non-Resident,No,8/13/2012,9/1/2015,Manufacturing,50274,To Improve,2.5,3,13
+250,Zuzanna Pruitt,05/21/87,F,Single,Non-Resident,No,3/30/2015,,Manufacturing,55315,Meet,5,5,16
